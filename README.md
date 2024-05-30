@@ -6,12 +6,17 @@
 ### 03)	Implement the application end points
 <br/>
 
-
-
 # Create Authorization server
-### GitHub
-Settings - > developer settings 
-![image](https://github.com/SupuniAbeysinghe/OAuth2_Social_Login-Demo/assets/121711723/394209a9-9cf6-484e-971a-088da7d8de8a)
+<br/>
+
+## GitHub
+### 1. Settings - > developer settings 
+<br/>
+
+
+![2](https://github.com/SupuniAbeysinghe/OAuth2_Social_Login-Demo/assets/121711723/0729e10d-9ebb-4438-88f3-5e6949d997dd)
+
+### 2. Then create a new app
 
 
 
