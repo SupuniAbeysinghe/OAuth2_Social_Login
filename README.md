@@ -7,7 +7,6 @@
 <br/>
 
 # Create Authorization server
-<br/>
 
 ## GitHub
 ### 1. Settings - > developer settings 
@@ -17,6 +16,17 @@
 ![2](https://github.com/SupuniAbeysinghe/OAuth2_Social_Login-Demo/assets/121711723/0729e10d-9ebb-4438-88f3-5e6949d997dd)
 
 ### 2. Then create a new app
+<br/>
+
+![image](https://github.com/SupuniAbeysinghe/OAuth2_Social_Login-Demo/assets/121711723/34a26dec-29a3-4ebd-b2a2-b0a9e3a32deb)
+
+### 3. Then generate new secret key and save Client Id and secret key
+<br/>
+
+## Google Account
+
+[http://console.cloud.google.com](http://console.cloud.google.com)
+### create a new project
 
 
 
